@@ -1,0 +1,3 @@
+C:/Users/WA1/OneDrive/Рабочий стол/АВС/ИДЗ4/cmake-build-debug/CMakeFiles/4.dir
+C:/Users/WA1/OneDrive/Рабочий стол/АВС/ИДЗ4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WA1/OneDrive/Рабочий стол/АВС/ИДЗ4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
